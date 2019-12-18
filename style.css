@@ -1,0 +1,19 @@
+#header{
+    background-color: blue;
+    width: 800px;
+
+}
+
+#header h1{
+    float: left;
+}
+
+#header p{
+    float: left;
+}
+
+
+
+.right{
+    float:right;
+}
