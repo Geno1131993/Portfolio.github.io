@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.right{
+    float:right;
+    padding: 15px;
+    margin: 0 auto;
+}
