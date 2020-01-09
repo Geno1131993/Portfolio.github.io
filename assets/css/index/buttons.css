@@ -1,0 +1,55 @@
+/*
+    Danielle Smith
+    buttons.css -- stylesheet to manipulate buttons
+*/
+
+
+
+#profile:hover{
+    background-color: rgba(188, 143, 143);
+
+}
+
+#profile:active{
+    background-color: red;
+}
+
+#profile:focus{
+    background-color: rgba(32, 178, 70);
+}
+
+
+
+
+#profile:active{
+
+}
+
+#contact:hover{
+    background-color: rgba(188, 143, 143);
+}
+
+
+#contact:focus{
+    background-color: rgba(32, 178, 70);
+}
+
+#contact:active{
+
+}
+
+
+#portfolio:hover{
+    background-color: rgba(188, 143, 143);
+}
+
+#portfolio:focus{
+    background-color: rgba(32, 178, 70);
+
+}
+
+#portfolio:active{
+
+}
+
+
