@@ -22,6 +22,37 @@
 }
 
 
+.box{
+    height: 70%;
+    width: 30%;
+    margin: 15px;
+    background-color: rgba(188, 143, 143, .75);
+    
+}
+
+.text{
+    padding: 5px;
+    margin: 10px;
+    background-color: rgba(152, 251, 152, 1);
+    height: 100px;
+    width: 95%;
+}
+
+
+.boxHeader{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgba(139, 0, 0, 1);
+    width: 95%;
+    height: 30px;
+    margin: 10px;
+    margin-bottom:0px;
+    padding: 5px;
+    background-color: rgba(245, 222, 179, .8);
+
+}
+
+
 body{
     background-image: url("../../images/forks.jpg");
     background-repeat: no-repeat;
@@ -57,6 +88,5 @@ body{
 #portfolio{
     background-color: rgba(173, 255, 47, 1);
 }
-
 
 
