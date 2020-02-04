@@ -1,0 +1,44 @@
+/*
+    Danielle Smith
+    buttons.css -- stylesheet to manipulate appearance of buttons
+*/
+
+#index:hover{
+    background-color: rgba(32, 178, 170, 1);
+}
+
+
+#index:active{
+    background-color: rgba(0, 128, 128, 1);
+}
+
+
+#index:focus{
+    background-color: rgba(32, 178, 170, 1);
+}
+
+
+#portfolio:hover{
+    background-color: rgba(102, 205, 170, 1);
+}
+
+#portfolio:active{
+    background-color: rgba(60, 179, 113, 1);
+}
+
+#portfolio:focus{
+    background-color: rgba(32, 178, 170, 1);
+}
+
+#contact:hover{
+    background-color: rgba(32, 178, 170, 1);
+}
+
+#contact:active{
+    background-color: rgba(0, 128, 128, 1);
+}
+
+#contact:focus{
+    background-color: rgba(32, 178, 170, 1);
+}
+

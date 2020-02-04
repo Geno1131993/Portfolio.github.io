@@ -1,0 +1,22 @@
+/*
+    Danielle Smith
+    float.css -- stylesheet to manipulate float for the profile page
+*/
+
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+.right{
+    float: right;
+}
+
+
+.left{
+    float: left;
+    margin: 0;
+}
