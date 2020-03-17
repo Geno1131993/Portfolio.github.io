@@ -1,23 +1,19 @@
 *{
     box-sizing: border-box;
-
 }
 
 
 .banner{
-    width: 100%;
-    color: rgba(200, 200, 200, 1);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
     border-radius: 5px;
     padding: 10px;
     z-index: 10;
+    position: top;
 }
 
 
-.header{
-    /* position: absolute; */
-}
+
 
 
 
